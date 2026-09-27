@@ -1,0 +1,6 @@
+{
+  "name": "Nigeria Kidnap Archive",
+  "description": "Ogun State Judiciary Law Library – Official digital legal repository, judgments, cause lists, state laws, practice directions, and judicial research portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
